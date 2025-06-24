@@ -1,8 +1,6 @@
-streamlit
-torch
-torchvision
-numpy
-pandas
-opencv-python
-dlib
-face-recognition
+streamlit==1.34.0
+face-recognition==1.3.0
+opencv-python==4.9.0.80
+torch==2.0.1
+torchvision==0.15.2
+Pillow==9.5.0
