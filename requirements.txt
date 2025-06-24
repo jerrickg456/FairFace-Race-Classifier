@@ -1,7 +1,8 @@
 streamlit
 torch
 torchvision
-opencv-python
 numpy
-Pillow
-dlib==19.22.99
+pandas
+opencv-python
+dlib
+face-recognition
